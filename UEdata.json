@@ -1,23 +1,23 @@
 {
   "User Info": [
     {
-     "User ID": "0",
-      "first name": "Dimitris",
-      "Sphere": " null",
+     "UserID": "0",
+      "firstname": "Dimitris",
+      "Sphere": "null",
       "Transform": "null"
 
     },
      {
-     "User ID": "1",
-      "first name": "Peter",
-      "Sphere": " fqw",
-      "Transform": "nuldsl"
+     "UserID": "1",
+      "firstname": "Peter",
+      "Sphere": "fqw",
+      "Transform": "null"
 
     },
     {
-     "User ID": "2",
-      "first name": "Maria",
-      "Sphere": " sfafsa",
+     "UserID": "2",
+      "firstname": "Maria",
+      "Sphere": "sfafsa",
       "Transform": "nulsfafsdsl"
 
     }
